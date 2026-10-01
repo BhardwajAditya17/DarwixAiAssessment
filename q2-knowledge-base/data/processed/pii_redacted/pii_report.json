@@ -1,0 +1,11 @@
+[
+  {
+    "document_id": "form_sample_candidate_record",
+    "title": "Sample Candidate Record",
+    "pii_types": [
+      "email",
+      "name",
+      "phone"
+    ]
+  }
+]

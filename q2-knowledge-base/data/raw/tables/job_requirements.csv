@@ -1,0 +1,4 @@
+job_id,title,employment_type,experience_required,location,required_skills,preferred_skills,availability_requirement,status
+SEI-001,Software Engineer Intern,Internship,0-1 years,Bengaluru,"Java;Python;Data Structures;Git;REST APIs","React;Node.js;SQL","Minimum 6 month commitment",active
+SDE-001,Software Development Engineer,Full-time,1-3 years,Hyderabad,"Java;Data Structures;Algorithms;SQL;REST APIs","Spring Boot;AWS;Docker","Full-time availability",active
+MLE-001,Machine Learning Engineer,Full-time,1-3 years,Bengaluru,"Python;Machine Learning;SQL;Git","PyTorch;TensorFlow;Docker","Full-time availability",active

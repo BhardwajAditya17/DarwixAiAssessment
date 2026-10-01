@@ -1,0 +1,323 @@
+[
+  {
+    "document_id": "website_company",
+    "source_type": "website",
+    "source_file": "data/raw/website/company.md",
+    "title": "TalentScreen AI",
+    "content": "# TalentScreen AI\n\nTalentScreen AI provides technology-enabled recruitment and candidate screening services for companies hiring software, data, and AI professionals.\n\nOur screening process is designed to collect consistent candidate information before candidates proceed to technical interviews.\n\nAll screening decisions must follow the active screening policy and job-specific requirements.\n",
+    "metadata": {
+      "file_name": "company.md",
+      "file_extension": ".md"
+    }
+  },
+  {
+    "document_id": "website_eligibility",
+    "source_type": "website",
+    "source_file": "data/raw/website/eligibility.md",
+    "title": "Candidate Eligibility",
+    "content": "# Candidate Eligibility\n\nFor each position, candidate eligibility is determined using the active job requirements.\n\nFor the Software Engineer Intern position:\n\n- Experience requirement: 0-1 years\n- Required skills: Java, Python, Data Structures, Git, REST APIs\n- Availability: Minimum 6 month commitment\n\nPreferred skills do not become mandatory requirements.\n\nInitial screening does not guarantee an interview or employment.\n",
+    "metadata": {
+      "file_name": "eligibility.md",
+      "file_extension": ".md"
+    }
+  },
+  {
+    "document_id": "website_faq",
+    "source_type": "website",
+    "source_file": "data/raw/website/faq.md",
+    "title": "Candidate Screening FAQ",
+    "content": "# Candidate Screening FAQ\n\n## How long does the screening call take?\n\nThe initial screening call typically takes approximately 10 to 15 minutes.\n\n## What happens after screening?\n\nCandidates who satisfy the initial screening requirements may proceed to the next stage of the recruitment process.\n\n## Does passing screening guarantee an interview?\n\nNo. Passing the initial screening does not guarantee an interview or employment.\n\n## Can I speak with a recruiter?\n\nYes. Candidates may request human assistance during the screening process.\n\n## Can I ask questions about the position?\n\nYes. The screening agent can answer questions covered by the available job and company information.\n\nQuestions outside the available information should be escalated to a recruiter.\n\n## Can I change my screening time?\n\nScheduling changes depend on the candidate's application and available appointment slots. The screening agent should not promise a new appointment unless the scheduling system confirms availability.\n\n## What if I do not have professional experience?\n\nCandidates should be evaluated according to the requirements of the specific position. Internship and entry-level positions may have different experience requirements.\n\n## Will my information be stored?\n\nCandidate information may be processed as part of the recruitment workflow. Candidates should be directed to the applicable privacy policy for detailed information.\n",
+    "metadata": {
+      "file_name": "faq.md",
+      "file_extension": ".md"
+    }
+  },
+  {
+    "document_id": "website_screening_process",
+    "source_type": "website",
+    "source_file": "data/raw/website/screening_process.md",
+    "title": "Candidate Screening Process",
+    "content": "# Candidate Screening Process\n\n## Overview\n\nTalentScreen AI uses an initial screening call to collect candidate information before technical interviews.\n\nThe standard screening process contains five stages:\n\n1. Candidate identity and application confirmation\n2. Availability and work-location discussion\n3. Experience and education verification\n4. Technical skill screening\n5. Candidate questions and next-step explanation\n\n## Initial Screening\n\nThe screening agent should ask questions relevant to the specific job description.\n\nThe agent must not make promises about final selection.\n\nThe agent may explain published job requirements and the screening process.\n\nIf the candidate asks a question that is not covered by the available knowledge base, the agent should state that the information is unavailable and offer human assistance.\n\n## Human Escalation\n\nA candidate should be offered human assistance when:\n\n- They request a recruiter.\n- They dispute information about their application.\n- They report an accessibility issue.\n- They ask about information that is not available in the knowledge base.\n- They raise a question requiring a recruiter or hiring manager decision.\n\n## Next Steps\n\nCandidates who satisfy the initial screening requirements may be informed that they can proceed to the next stage.\n\nPassing the initial screening does not guarantee an interview offer or employment.\n",
+    "metadata": {
+      "file_name": "screening_process.md",
+      "file_extension": ".md"
+    }
+  },
+  {
+    "document_id": "website_terminology_notes",
+    "source_type": "website",
+    "source_file": "data/raw/website/terminology_notes.md",
+    "title": "Recruitment Terminology Notes",
+    "content": "# Recruitment Terminology Notes\n\nThe following terms may appear in historical recruitment material:\n\n- Years of experience\n- Professional experience\n- Work experience\n- Relevant experience\n- Candidate experience\n\nFor screening purposes, the active job requirement should determine the exact experience requirement for each position.\n\nThese terms should not automatically be treated as identical when applying a hard screening rule.\n",
+    "metadata": {
+      "file_name": "terminology_notes.md",
+      "file_extension": ".md"
+    }
+  },
+  {
+    "document_id": "pdf_candidate_screening_policy",
+    "source_type": "pdf",
+    "source_file": "data/raw/pdfs/candidate_screening_policy.md",
+    "title": "Candidate Screening Policy",
+    "content": "# Candidate Screening Policy\n\nPolicy ID: CSP-2026-02\nVersion: 2.0\nStatus: Active\nEffective Date: 2026-09-01\n\n## Purpose\n\nThis policy defines the rules used during initial candidate screening.\n\n## Screening Principles\n\nThe screening process must be consistent with the requirements of the position being screened.\n\nThe screening agent must not invent job requirements, compensation information, interview outcomes, or company policies.\n\nWhen information is unavailable, the agent must clearly state that it does not have the information.\n\n## Experience\n\nExperience requirements are position-specific.\n\nThe agent must use the active job requirement record when determining whether a candidate meets an experience requirement.\n\n## Skills\n\nRequired skills listed for a position are screening requirements.\n\nPreferred skills should not be represented as mandatory requirements.\n\n## Availability\n\nThe candidate's availability should be recorded when availability is relevant to the position.\n\nThe agent must not reject a candidate based on availability unless the active job requirements specify an availability requirement.\n\n## Human Escalation\n\nCandidates may request a recruiter at any time.\n\nThe agent must escalate questions involving exceptions, disputed application information, accessibility requirements, or unavailable policy information.\n\n## Selection\n\nInitial screening is not a final hiring decision.\n\nOnly the authorized recruitment process may determine whether a candidate proceeds to an interview or receives an offer.\n",
+    "metadata": {
+      "file_name": "candidate_screening_policy.md",
+      "file_extension": ".md"
+    }
+  },
+  {
+    "document_id": "pdf_candidate_screening_policy_old",
+    "source_type": "pdf",
+    "source_file": "data/raw/pdfs/candidate_screening_policy_old.md",
+    "title": "Candidate Screening Policy",
+    "content": "# Candidate Screening Policy\n\nPolicy ID: CSP-2026-01\nVersion: 1.0\nStatus: Superseded\nEffective Date: 2026-05-01\nSuperseded Date: 2026-09-01\n\n## Experience\n\nCandidates should normally have at least 1 year of professional experience unless the position is explicitly designated as an internship or entry-level position.\n\n## Screening\n\nThe screening agent may collect candidate experience, education, availability, and technical skills.\n\nCandidates may request human assistance.\n\nThis policy has been superseded by Candidate Screening Policy CSP-2026-02.\n",
+    "metadata": {
+      "file_name": "candidate_screening_policy_old.md",
+      "file_extension": ".md"
+    }
+  },
+  {
+    "document_id": "pdf_interview_guidelines",
+    "source_type": "pdf",
+    "source_file": "data/raw/pdfs/interview_guidelines.md",
+    "title": "Interview Guidelines",
+    "content": "# Interview Guidelines\n\nVersion: 1.1\nStatus: Active\n\n## Technical Screening\n\nFor technical positions, the screening conversation may cover:\n\n- Programming languages\n- Data structures and algorithms\n- Databases\n- APIs\n- Software development practices\n- Relevant frameworks\n- AI and machine-learning experience where applicable\n\n## Candidate Responses\n\nThe screening agent should record candidate responses accurately.\n\nThe agent should not claim that a candidate is technically strong or weak based only on a short screening conversation.\n\n## Candidate Questions\n\nCandidates may ask about:\n\n- Job responsibilities\n- Required skills\n- Preferred skills\n- Recruitment stages\n- General company information\n\nQuestions requiring a hiring manager's judgment should be escalated.\n\n## Prohibited Behavior\n\nThe screening agent must not:\n\n- Invent interview results\n- Promise employment\n- Promise compensation\n- Change job requirements\n- Reveal confidential candidate information\n- Make decisions based on protected personal characteristics\n",
+    "metadata": {
+      "file_name": "interview_guidelines.md",
+      "file_extension": ".md"
+    }
+  },
+  {
+    "document_id": "form_candidate_application",
+    "source_type": "form",
+    "source_file": "data/raw/forms/candidate_application.md",
+    "title": "Candidate Application Form",
+    "content": "# Candidate Application Form\n\n## Candidate Information\n\nFull Name:\nEmail:\nPhone:\nCurrent City:\n\n## Education\n\nHighest Qualification:\nUniversity:\nGraduation Year:\n\n## Experience\n\nYears of Professional Experience:\nCurrent/Most Recent Role:\n\n## Technical Skills\n\nProgramming Languages:\nFrameworks:\nDatabases:\nCloud/DevOps:\nOther Relevant Skills:\n\n## Availability\n\nEarliest Start Date:\nAvailable Duration:\nPreferred Work Location:\n\n## Position\n\nJob ID:\nPosition Applied For:\n\n## Candidate Confirmation\n\nI confirm that the information provided during the application process is accurate to the best of my knowledge.\n",
+    "metadata": {
+      "file_name": "candidate_application.md",
+      "file_extension": ".md"
+    }
+  },
+  {
+    "document_id": "form_sample_candidate_record",
+    "source_type": "form",
+    "source_file": "data/raw/forms/sample_candidate_record.md",
+    "title": "Sample Candidate Record",
+    "content": "# Sample Candidate Record\n\nThis document contains synthetic test data for evaluating PII detection.\n\nCandidate Name: Aarav Mehta\nEmail: aarav.mehta@example.com\nPhone: +91-90000-12345\nCity: Bengaluru\n\nJob ID: SEI-001\nPosition: Software Engineer Intern\n\nSkills:\nJava, Python, Git, REST APIs\n\nExperience:\n6 months\n\nAvailability:\n8 months\n\nNote:\nThis record is synthetic test data and does not represent a real candidate.\n",
+    "metadata": {
+      "file_name": "sample_candidate_record.md",
+      "file_extension": ".md"
+    }
+  },
+  {
+    "document_id": "marketing_careers",
+    "source_type": "marketing",
+    "source_file": "data/raw/marketing/careers.md",
+    "title": "TalentScreen AI Careers",
+    "content": "# TalentScreen AI Careers\n\nTalentScreen AI works with technology-focused employers to connect candidates with software engineering, data, and artificial intelligence opportunities.\n\nOur recruitment process aims to provide candidates with clear information about job requirements and recruitment stages.\n\nCandidates are encouraged to provide accurate information about their skills, experience, education, and availability.\n\nThe initial screening stage is intended to collect relevant information efficiently. It is not a final hiring decision.\n",
+    "metadata": {
+      "file_name": "careers.md",
+      "file_extension": ".md"
+    }
+  },
+  {
+    "document_id": "table_job_requirements",
+    "source_type": "table",
+    "source_file": "data/raw/tables/job_requirements.csv",
+    "title": "Job Requirements",
+    "content": [
+      {
+        "job_id": "SEI-001",
+        "title": "Software Engineer Intern",
+        "employment_type": "Internship",
+        "experience_required": "0-1 years",
+        "location": "Bengaluru",
+        "required_skills": "Java;Python;Data Structures;Git;REST APIs",
+        "preferred_skills": "React;Node.js;SQL",
+        "availability_requirement": "Minimum 6 month commitment",
+        "status": "active"
+      },
+      {
+        "job_id": "SDE-001",
+        "title": "Software Development Engineer",
+        "employment_type": "Full-time",
+        "experience_required": "1-3 years",
+        "location": "Hyderabad",
+        "required_skills": "Java;Data Structures;Algorithms;SQL;REST APIs",
+        "preferred_skills": "Spring Boot;AWS;Docker",
+        "availability_requirement": "Full-time availability",
+        "status": "active"
+      },
+      {
+        "job_id": "MLE-001",
+        "title": "Machine Learning Engineer",
+        "employment_type": "Full-time",
+        "experience_required": "1-3 years",
+        "location": "Bengaluru",
+        "required_skills": "Python;Machine Learning;SQL;Git",
+        "preferred_skills": "PyTorch;TensorFlow;Docker",
+        "availability_requirement": "Full-time availability",
+        "status": "active"
+      }
+    ],
+    "metadata": {
+      "file_name": "job_requirements.csv",
+      "file_extension": ".csv",
+      "row_count": 3,
+      "columns": [
+        "job_id",
+        "title",
+        "employment_type",
+        "experience_required",
+        "location",
+        "required_skills",
+        "preferred_skills",
+        "availability_requirement",
+        "status"
+      ]
+    }
+  },
+  {
+    "document_id": "table_screening_rules",
+    "source_type": "table",
+    "source_file": "data/raw/tables/screening_rules.csv",
+    "title": "Screening Rules",
+    "content": [
+      {
+        "rule_id": "RULE-001",
+        "job_id": "SEI-001",
+        "field": "experience",
+        "operator": "between",
+        "value": "0-1 years",
+        "priority": "high",
+        "description": "Candidate experience must fall within the stated range",
+        "status": "active"
+      },
+      {
+        "rule_id": "RULE-002",
+        "job_id": "SEI-001",
+        "field": "skill",
+        "operator": "contains",
+        "value": "Java",
+        "priority": "high",
+        "description": "Java is required",
+        "status": "active"
+      },
+      {
+        "rule_id": "RULE-003",
+        "job_id": "SEI-001",
+        "field": "skill",
+        "operator": "contains",
+        "value": "Python",
+        "priority": "high",
+        "description": "Python is required",
+        "status": "active"
+      },
+      {
+        "rule_id": "RULE-004",
+        "job_id": "SEI-001",
+        "field": "skill",
+        "operator": "contains",
+        "value": "Data Structures",
+        "priority": "high",
+        "description": "Data Structures knowledge is required",
+        "status": "active"
+      },
+      {
+        "rule_id": "RULE-005",
+        "job_id": "SEI-001",
+        "field": "skill",
+        "operator": "contains",
+        "value": "Git",
+        "priority": "high",
+        "description": "Git knowledge is required",
+        "status": "active"
+      },
+      {
+        "rule_id": "RULE-006",
+        "job_id": "SEI-001",
+        "field": "skill",
+        "operator": "contains",
+        "value": "REST APIs",
+        "priority": "high",
+        "description": "REST API knowledge is required",
+        "status": "active"
+      },
+      {
+        "rule_id": "RULE-007",
+        "job_id": "SEI-001",
+        "field": "availability",
+        "operator": "equals",
+        "value": "Minimum 6 month commitment",
+        "priority": "high",
+        "description": "Candidate should be available for the required duration",
+        "status": "active"
+      },
+      {
+        "rule_id": "RULE-008",
+        "job_id": "SDE-001",
+        "field": "skill",
+        "operator": "contains",
+        "value": "Java",
+        "priority": "high",
+        "description": "Java is required",
+        "status": "active"
+      },
+      {
+        "rule_id": "RULE-009",
+        "job_id": "SDE-001",
+        "field": "skill",
+        "operator": "contains",
+        "value": "Data Structures",
+        "priority": "high",
+        "description": "Data Structures knowledge is required",
+        "status": "active"
+      },
+      {
+        "rule_id": "RULE-010",
+        "job_id": "SDE-001",
+        "field": "skill",
+        "operator": "contains",
+        "value": "Algorithms",
+        "priority": "high",
+        "description": "Algorithms knowledge is required",
+        "status": "active"
+      },
+      {
+        "rule_id": "RULE-011",
+        "job_id": "MLE-001",
+        "field": "skill",
+        "operator": "contains",
+        "value": "Python",
+        "priority": "high",
+        "description": "Python is required",
+        "status": "active"
+      },
+      {
+        "rule_id": "RULE-012",
+        "job_id": "MLE-001",
+        "field": "skill",
+        "operator": "contains",
+        "value": "Machine Learning",
+        "priority": "high",
+        "description": "Machine Learning knowledge is required",
+        "status": "active"
+      }
+    ],
+    "metadata": {
+      "file_name": "screening_rules.csv",
+      "file_extension": ".csv",
+      "row_count": 12,
+      "columns": [
+        "rule_id",
+        "job_id",
+        "field",
+        "operator",
+        "value",
+        "priority",
+        "description",
+        "status"
+      ]
+    }
+  }
+]

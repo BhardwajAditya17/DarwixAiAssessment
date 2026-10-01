@@ -1,0 +1,13 @@
+rule_id,job_id,field,operator,value,priority,description,status
+RULE-001,SEI-001,experience,between,"0-1 years",high,Candidate experience must fall within the stated range,active
+RULE-002,SEI-001,skill,contains,"Java",high,Java is required,active
+RULE-003,SEI-001,skill,contains,"Python",high,Python is required,active
+RULE-004,SEI-001,skill,contains,"Data Structures",high,Data Structures knowledge is required,active
+RULE-005,SEI-001,skill,contains,"Git",high,Git knowledge is required,active
+RULE-006,SEI-001,skill,contains,"REST APIs",high,REST API knowledge is required,active
+RULE-007,SEI-001,availability,equals,"Minimum 6 month commitment",high,Candidate should be available for the required duration,active
+RULE-008,SDE-001,skill,contains,"Java",high,Java is required,active
+RULE-009,SDE-001,skill,contains,"Data Structures",high,Data Structures knowledge is required,active
+RULE-010,SDE-001,skill,contains,"Algorithms",high,Algorithms knowledge is required,active
+RULE-011,MLE-001,skill,contains,"Python",high,Python is required,active
+RULE-012,MLE-001,skill,contains,"Machine Learning",high,Machine Learning knowledge is required,active
